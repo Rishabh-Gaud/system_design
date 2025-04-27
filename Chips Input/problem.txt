@@ -1,0 +1,20 @@
+Problem Statement:
+Chips Input: Users should be able to input text into a field, and when they press the "Enter" key, the text should be added to a list of chips.
+
+Displaying Chips: The entered chips should be displayed below the input field.
+
+Removing Chips: Each chip should have a way to be removed by clicking on it (typically a small "X" next to the chip).
+
+Example Behavior:
+Input: The user types "React" and presses Enter.
+
+Output: The word "React" appears as a chip.
+
+Remove: Clicking the "X" on the chip removes it.
+
+Key Requirements for the Solution:
+State Management: You need to manage an array of chips.
+
+Event Handling: Handle key events (like Enter to add a chip) and mouse events (like click to remove a chip).
+
+Conditional Rendering: Display chips only if the list is not empty.
