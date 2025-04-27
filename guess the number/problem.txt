@@ -1,0 +1,11 @@
+Design a simple number guessing game where:
+
+The computer randomly picks a number between 1 and 100.
+
+The user tries to guess the number.
+
+After each guess, the program should tell the user whether the guess was too high, too low, or correct.
+
+Count and display the number of attempts when the user guesses correctly.
+
+ Allow resetting the game.
